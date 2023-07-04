@@ -1,0 +1,5 @@
+<gateway name="infobip">
+    <username>YOUR_USERNAME</username>
+    <password>YOUR_PASSWORD</password>
+    <api_key>YOUR_API_KEY</api_key>
+</gateway>
